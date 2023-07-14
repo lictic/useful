@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/xiaoyi/cmake/build",
+  "command": "C:\\Users\\xiaoyi\\c++\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\demo.dir\\main.cpp.obj -c C:\\Users\\xiaoyi\\cmake\\main.cpp",
+  "file": "C:/Users/xiaoyi/cmake/main.cpp",
+  "output": "CMakeFiles/demo.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/xiaoyi/cmake/build",
+  "command": "C:\\Users\\xiaoyi\\c++\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\demo.dir\\foo.cpp.obj -c C:\\Users\\xiaoyi\\cmake\\foo.cpp",
+  "file": "C:/Users/xiaoyi/cmake/foo.cpp",
+  "output": "CMakeFiles/demo.dir/foo.cpp.obj"
+}
+]
