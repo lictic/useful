@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/shiyan/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\zhigong.dir\\main.cpp.obj -c C:\\shiyan\\main.cpp",
+  "file": "C:/shiyan/main.cpp",
+  "output": "CMakeFiles/zhigong.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/shiyan/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\zhigong.dir\\shiyan.cpp.obj -c C:\\shiyan\\shiyan.cpp",
+  "file": "C:/shiyan/shiyan.cpp",
+  "output": "CMakeFiles/zhigong.dir/shiyan.cpp.obj"
+}
+]

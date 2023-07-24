@@ -1,0 +1,3 @@
+C:/shiyan/build/CMakeFiles/zhigong.dir
+C:/shiyan/build/CMakeFiles/edit_cache.dir
+C:/shiyan/build/CMakeFiles/rebuild_cache.dir
